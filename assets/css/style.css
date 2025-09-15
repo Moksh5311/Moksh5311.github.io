@@ -356,7 +356,7 @@ h3 {
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(47, 0, 77, 0.4);
   height: 100%;
   left: 0;
   position: absolute;
@@ -473,7 +473,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #004d40 !important;
+  border-bottom: 3px solid #09004d !important;
 }
 
 #skills .card.large {
